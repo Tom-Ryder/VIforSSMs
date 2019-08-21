@@ -1,0 +1,28 @@
+#### T ####
+5000
+#### impute ####
+1
+#### x0 ####
+10.0
+#### Theta ####
+5.0, 0.5, 3.0
+#### Observation Standard Deviation ####
+1.
+#### p ####
+50
+#### kernel_len ####
+50
+#### batch_dims ####
+50
+#### network_dims ####
+50, 50, 50
+#### no_flows ####
+3
+####  priors ####
+(0., 10.0)(0., 10.0)(0., 10.0)
+#### feat_window ####
+10
+#### learn_rate ####
+1e-3
+#### grad_clip ####
+2.5e8
